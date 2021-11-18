@@ -1,0 +1,9 @@
+{
+    "$schema": "httpa://on.cypress.io/cypress.schema.json",
+    "viewporWidth": 914,
+    "viewporHeight": 1000, 
+    "env": {
+        "apiUrl": "https://twitter-clone-example-backend.herokuapp.com/"
+    }, 
+        "baseUrl": "https://twitter-clone-example.herokuapp.com"
+}
